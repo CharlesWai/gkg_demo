@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Gkg.Core/Gkg.Core.csproj" />
+  <Project Path="Gkg.Extension/Gkg.Extension.csproj" />
+  <Project Path="Gkg.View/Gkg.View.csproj" />
+  <Project Path="Gkg.ViewModel/Gkg.ViewModel.csproj" />
+  <Project Path="Gkg.Wpf/Gkg.Wpf.csproj" />
+</Solution>
